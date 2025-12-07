@@ -3,7 +3,7 @@
 **The Premium Local Media Converter.**
 Open Source. Private. Blazing Fast.
 
-![Transmute Banner](https://placehold.co/1200x600/0f172a/ffffff?text=Transmute+Preview)
+![Transmute Banner](https://assets.nanolab.site/transmute/banner.png)
 
 ## Features
 
