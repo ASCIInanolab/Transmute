@@ -3,7 +3,7 @@
 **The Premium Local Media Converter.**
 Open Source. Private. Blazing Fast.
 
-![Transmute Banner](https://assets.nanolab.site/transmute/banner.pg)
+![Transmute Banner](https://assets.nanolab.site/transmute/banner.png)
 
 ## Features
 
